@@ -1,6 +1,3 @@
-# Welcome to Streamlit!
+# Welcome to The Stock Estimater App
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Open the site to see the stock estimater and try it for yourself! 👍
