@@ -2,7 +2,6 @@ import streamlit
 import datetime
 import yfinance
 import fbprophet
-import fbprophet.plot
 import plotly
 
 START = "2015-01-01"
