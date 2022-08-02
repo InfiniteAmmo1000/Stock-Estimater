@@ -1,3 +1,6 @@
-altair
-pandas
-streamlit
+streamlit as st
+datetime
+yfinance as yf
+fbprophet
+fbprophet.plot
+graph_objs as go
