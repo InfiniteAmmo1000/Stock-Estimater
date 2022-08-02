@@ -1,6 +1,6 @@
-streamlit as st
+streamlit
 datetime
-yfinance as yf
+yfinance
 fbprophet
 fbprophet.plot
-graph_objs as go
+plotly
